@@ -3,6 +3,11 @@
 we made a dalle-e chat app in Flutter
 
 
+- to start installing
+-  start installing
+-  run application
+-  update and save application
+
 ```
 
 flutter pub get
