@@ -21,12 +21,15 @@ flutter run
 ```
 
 
+Dale-E Chat is an 
+AI-powered chatbot that can assist with a variety of tasks, 
+including answering questions, providing information,
+and answering queries. 
+To build a Flutter application that uses dalle-E Chat,
+you can follow these steps:
 
-```
-Dale-E Chat is an AI-powered chatbot that can assist with a variety of tasks, including answering questions, providing information, and answering queries. To build a Flutter application that uses dalle-E Chat, you can follow these steps:
 
 
-```
 
 ```
 
