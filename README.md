@@ -37,7 +37,7 @@ you can follow these steps:
 
 
 
-```
+
 
 
 
@@ -50,6 +50,11 @@ you can follow these steps:
 
 
 4. **Integrate dalle-E Chat**: To integrate dalle-E Chat into your Flutter app, you need to create a Dart file to handle the chatbot interactions. You can use the `dalee-e` package to create a chatbot instance. Here's an example of how you can create a chatbot instance:
+
+
+
+```
+
 
 ```dart
 import 'dart:convert';
