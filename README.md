@@ -57,7 +57,7 @@ you can follow these steps:
 
 ###  .Dart
 
-```
+
 
 ```
 import 'dart:convert';
@@ -85,7 +85,7 @@ void main() {
 5. **Use the chatbot**: You can now use the chatbot in your Flutter app. You can call the `sendText` and `handleQuery` methods to send text and handle queries, respectively. Here's an example of how you can use the chatbot:
 
 
-```
+
 
 ```
 void main() {
