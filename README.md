@@ -31,11 +31,11 @@ you can follow these steps:
 
 
 
-```
+
 
 1. **Install the necessary dependencies**: First, you need to install the necessary Flutter packages. You can do this by running the following command in your terminal:
 
-```
+
 
 ```
 
