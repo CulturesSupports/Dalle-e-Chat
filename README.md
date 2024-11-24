@@ -40,21 +40,14 @@ you can follow these steps:
 ```
 
 
-```
-flutter pub get
-```
+
 
 2. **Set up your application**: Next, you need to set up your Flutter application. You can do this by creating a new Flutter project:
 
-```bash
-flutter create my_dalee_app
-```
 
 3. **Build the app**: Once your project is set up, you can start building the app. Navigate to the project directory and run the following command:
 
-```bash
-flutter run
-```
+
 
 4. **Integrate dalle-E Chat**: To integrate dalle-E Chat into your Flutter app, you need to create a Dart file to handle the chatbot interactions. You can use the `dalee-e` package to create a chatbot instance. Here's an example of how you can create a chatbot instance:
 
